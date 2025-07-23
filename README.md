@@ -5,15 +5,9 @@
 Dominar desenvolvimento Full Stack com Java em 4 meses.
 
 ## 📅 Cronograma
-- **Início:** [Data de hoje]
-- **Conclusão prevista:** [Data + 4 meses]
-- **Frequência:** 3 dias por semana
+- **Início:** [23/07/2025]
 
-## 🚀 Progresso
-- [ ] Semana 1: Java OOP ✏️ **EM ANDAMENTO**
-- [ ] Semana 2: Collections + SQL
-- [ ] Semana 3: Spring Boot
-...
+- **Frequência:** 3 dias por semana
 
 ## 📚 Stack Técnica
 **Backend:** Java, Spring Boot, PostgreSQL
